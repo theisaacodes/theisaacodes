@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theisaacodes" alt="theisaacodes" /></a> </p>
 
-- 🔭 I’m currently working on **umc oxford**
+- 🔭 I’m currently working on **umc oxford project**
 
 - 🌱 I’m currently learning **azure administration, web development, kubernetes (K8), docker, virtualisation**
 
