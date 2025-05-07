@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theisaacodes&label=Profile%20views&color=0e75b6&style=flat" alt="theisaacodes" /> </p>
 
-- 🔭 I’m currently working on [umc oxford](umcoxford.org.uk)
+- 🔭 I’m currently working on [umc oxford project](umcoxford.org.uk)
 
 - 🌱 I’m currently learning **azure administration, web development, kubernetes (K8), docker, virtualisation**
 
