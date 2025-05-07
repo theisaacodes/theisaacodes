@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **I like learning new technologies and keeping up to date.**
 
-- 📫 How to reach me **isaackalungi@hotmail.co.uk.co.uk**
+- 📫 How to reach me **isaackalungi@hotmail.co.uk**
 
 - 📄 Know about my experiences [https://resumeapikalungi.azurewebsites.net/api/resume](https://resumeapikalungi.azurewebsites.net/api/resume)
 
