@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **azure administration, web development, kubernetes (K8), docker, virtualisation**
 
-- 💬 Ask me about **I like learning new technologies and keeping up to date.**
+- 💬 Ask me about **Everything tech.**
 
 - 📫 How to reach me **isaackalungi@hotmail.co.uk**
 
 - 📄 Know about my experiences [https://resumeapikalungi.azurewebsites.net/api/resume](https://resumeapikalungi.azurewebsites.net/api/resume)
 
-- ⚡ Fun fact **I think i am funny lol. sometimes!!**
+- ⚡ Fun fact **petrol head & overall motorsport enthuthiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
