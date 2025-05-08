@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [umc oxford project](umcoxford.org.uk)
 
-- 🌱 I’m currently learning **azure administration, web development, kubernetes (K8), docker, virtualisation, homelabing & self hosted services.*
+- 🌱 I’m currently learning **azure administration, web development, kubernetes (K8), docker, virtualisation, homelabing & self hosted services.**
 
 - 💬 Ask me about **Everything tech.**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://resumeapikalungi.azurewebsites.net/api/resume](https://resumeapikalungi.azurewebsites.net/api/resume)
 
-- ⚡ Fun fact **petrol head at heart, but i do it the right way on the track not on public road #roadsafety & overall motorsport enthuthiast.**
+- ⚡ Fun fact **petrol head at heart, but i do it the right way on the track not on the public road. #roadsafety & overall motorsport enthuthiast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
