@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [umc oxford project](umcoxford.org.uk)
 
-- 🌱 I’m currently learning **azure administration, web development, kubernetes (K8), docker, virtualisation**
+- 🌱 I’m currently learning **azure administration, web development, kubernetes (K8), docker, virtualisation, homelabing & self hosted services.*
 
 - 💬 Ask me about **Everything tech.**
 
